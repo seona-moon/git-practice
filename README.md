@@ -6,6 +6,7 @@
 
 test2 3 
 
+<<<<<<< HEAD
 branch tes
 
 main modifie:
